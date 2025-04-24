@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cpu2": "cpu",
+      "ram": "ram",
+      "storage": "storage",
+      "gpu": "gpu"
+    },
+    {
+      "id": 2,
+      "cpu": "cpu2",
+      "ram": "ram2",
+      "storage": "storage2",
+      "gpu": "gpu2"
+    },
+    {
+        "id": 3,
+        "cpu": "cpu3",
+        "ram": "ram3",
+        "storage": "storage3",
+        "gpu": "gpu3"
+      },
+      {
+        "id": 4,
+        "cpu": "cpu4",
+        "ram": "ram4",
+        "storage": "storage4",
+        "gpu": "gpu4"
+      },
+      {
+        "id": 5,
+        "cpu": "cpu5",
+        "ram": "ram5",
+        "storage": "storage5",
+        "gpu": "gpu5"
+      },
+      {
+        "id": 6,
+        "cpu": "cpu6",
+        "ram": "ram6",
+        "storage": "storage6",
+        "gpu": "gpu6"
+      }
+]
